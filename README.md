@@ -4,10 +4,6 @@ A nostalgic recreation of the classic Nokia Snake game. This project focuses on 
 
 -----
 
-## 🚀 Live Demo
-
-[**Click here to Play the Game**](https://www.google.com/search?q=https://janak404.github.io/Retro-Nokia-Snake/) *(Note: Replace with your actual GitHub Pages link)*
-
 -----
 
 ## ✨ Features
