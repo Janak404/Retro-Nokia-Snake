@@ -4,8 +4,6 @@ A nostalgic recreation of the classic Nokia Snake game. This project focuses on 
 
 -----
 
------
-
 ## ✨ Features
 
   * **Retro Aesthetics:** Custom CSS "Nokio" phone case with CRT scanline effects and a pixelated LCD display.
