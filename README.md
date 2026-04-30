@@ -2,7 +2,7 @@
 
 A nostalgic recreation of the classic Nokia Snake game. This project focuses on **Canvas API** rendering, **Game Loop** management, and a custom **CRT filter** for that authentic 90s handheld feel.
 
-[Live Demo]([https://janak404.github.io/Retro-Nokia-Snake/)
+[Live Demo]([https://janak404.github.io/Retro-Nokia-Snake/])
 
 ## ✨ Features
 
